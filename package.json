@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "learningmodule",
+=======
+  "name": "learningproject",
+>>>>>>> b7f7eab77916d404e57b3ceb609ff6e9af3a733e
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +13,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^1.3.4",
     "next": "13.2.4",
     "react": "18.2.0",
@@ -17,5 +22,26 @@
   "devDependencies": {
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4"
+=======
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@mantine/carousel": "^5.10.0",
+    "@mantine/core": "^5.10.0",
+    "@mantine/dropzone": "^5.10.0",
+    "@mantine/hooks": "^5.10.0",
+    "@mantine/next": "^5.10.0",
+    "@mantine/tiptap": "^5.10.0",
+    "@next/font": "13.1.1",
+    "@tabler/icons": "^1.119.0",
+    "@tiptap/extension-link": "^2.0.0-beta.209",
+    "@tiptap/react": "^2.0.0-beta.209",
+    "@tiptap/starter-kit": "^2.0.0-beta.209",
+    "axios": "^1.2.2",
+    "embla-carousel-react": "^7.0.5",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1"
+>>>>>>> b7f7eab77916d404e57b3ceb609ff6e9af3a733e
   }
 }

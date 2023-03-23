@@ -18,6 +18,11 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+<<<<<<< HEAD
+=======
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+>>>>>>> b7f7eab77916d404e57b3ceb609ff6e9af3a733e
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
